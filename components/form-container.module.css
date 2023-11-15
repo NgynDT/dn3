@@ -1,0 +1,161 @@
+.frameChild,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 639px;
+  height: 864px;
+}
+.groupChild {
+  border-radius: var(--br-8xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 43px;
+  height: 39px;
+}
+.ghiNhNg {
+  position: absolute;
+  top: 7px;
+  left: 57px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 365px;
+  left: 45px;
+  width: 260px;
+  height: 39px;
+}
+.qunMtKhu {
+  position: absolute;
+  top: 372px;
+  left: 412px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 549px;
+  height: 80px;
+}
+.tnNgNhp {
+  position: absolute;
+  top: 28px;
+  left: 30px;
+  line-height: 24px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 137px;
+  left: 45px;
+  width: 549px;
+  height: 80px;
+}
+.mtKhu {
+  position: absolute;
+  top: 31px;
+  left: 26px;
+  line-height: 24px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 39.88%;
+  width: 8.34%;
+  top: 33.75%;
+  right: 1.31%;
+  bottom: 26.38%;
+  left: 90.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv,
+.rectangleDiv {
+  position: absolute;
+  top: 251px;
+  left: 45px;
+  width: 549px;
+  height: 80px;
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.ngNhp {
+  position: absolute;
+  top: 28px;
+  left: 217px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 430px;
+  left: 45px;
+  width: 549px;
+  height: 80px;
+  color: var(--color-white);
+}
+.toTiKhon {
+  position: absolute;
+  top: 28px;
+  left: 201px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 536px;
+  left: 45px;
+  width: 549px;
+  height: 80px;
+  cursor: pointer;
+}
+.removeRedEye {
+  position: absolute;
+  top: 290px;
+  left: 526px;
+  width: 50px;
+  height: 51px;
+  overflow: hidden;
+}
+.ngNhp1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+}
+.ngNhpWrapper {
+  position: absolute;
+  top: 66px;
+  left: 170px;
+  width: 298px;
+  height: 24px;
+  font-size: var(--font-size-31xl);
+}
+.rectangleParent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 639px;
+  height: 864px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-work-sans);
+}
